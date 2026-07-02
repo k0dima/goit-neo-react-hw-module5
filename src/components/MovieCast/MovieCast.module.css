@@ -1,0 +1,17 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  margin: 24px 0 0;
+  padding-left: 24px;
+}
+
+.item {
+  width: 160px;
+}
+
+.photo {
+  width: 120px;
+  height: 180px;
+  object-fit: cover;
+}
